@@ -1,16 +1,21 @@
-## Hi there 👋
+# 안녕하세요! LetWD 제작자 HIjiwho 입니다!
+## 저희 앱은 전부 생성형 AI를 활용함을 알려드립니다!
 
-<!--
-**LetWD/LetWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LWD 개요
+### LWD는 Let We Do의 약어이며,
+AI 기반으로 만들어진 문제를 풀고, 답체크까지 해주는 것이 특징입니다!
 
-Here are some ideas to get you started:
+## LWD 유의 사항
+### LWD는 무료 프로그램 입니다.
+그래서 제작자는 API가 별로 없는 관계로..
+Gemini API를 따로 발급받고 첫 실행시 기입해주셔야 합니다!
+자세한 사항은 첫 실행시 확인 가능합니다!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LWD 앱
+### LWD korean
+### LWD math
+### LWD english
+이렇게 3가지가 있고
+프로그램을 설정해주는
+### LWD HUB
+가 있습니다!
